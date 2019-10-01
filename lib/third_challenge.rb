@@ -8,7 +8,7 @@
         "Lady Montague""54"
         },
       :hero => {
-       "Romeo",
+       "Romeo","15",
         },
       :hero_friends => []
    }, 
