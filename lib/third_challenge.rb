@@ -8,7 +8,7 @@
         "Lady Montague""54"
         },
       :hero => {
-        #your key/value pairs here
+       
         },
       :hero_friends => []
    }, 
