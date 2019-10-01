@@ -8,13 +8,13 @@
         "Lady Montague""54"
         },
       :hero => {
-       "Romeo","15",
+       "Romeo","15","alive"
         },
-      :hero_friends => []
+      :hero_friends => [3]
    }, 
    :capulet => {
       :patriarch => {
-        #your key/value pairs here
+        
         },
       :matriarch => {
         #your key/value pairs here
