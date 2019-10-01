@@ -2,27 +2,27 @@
   epic_tragedy = {
    :montague => {
       :patriarch => {
-      "Lord Montague","53"
+      name: "Lord Montague", age: "53"
         },
       :matriarch => {
-        "Lady Montague""54"
+       name:  "Lady Montague" age: "54"
         },
       :hero => {
-       "Romeo","15","alive"
+       name: "Romeo", age: "15", status: "alive"
         },
-      :hero_friends => [3]
+      :hero_friends => []
    }, 
    :capulet => {
       :patriarch => {
-        "Lord Capulet","50"
+        name: "Lord Capulet", age: "50"
         },
       :matriarch => {
-        "Lady Capulet","51"
+        name: "Lady Capulet", age: "51"
         },
       :heroine => {
-         "Juliet",
+         name: "Juliet", age: "15"
         },
-      :heroine_friends => []
+      :heroine_friends => [3]
    }
   }
 
