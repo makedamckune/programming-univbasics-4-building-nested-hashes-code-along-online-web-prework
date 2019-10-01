@@ -20,7 +20,7 @@
         "Lady Capulet","51"
         },
       :heroine => {
-        
+         "Juliet",
         },
       :heroine_friends => []
    }
